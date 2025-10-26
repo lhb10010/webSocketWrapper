@@ -1,4 +1,4 @@
-#include </home/pi/webSocketWrapper.h>
+#include <webSocketWrapper.h>
 #include <string>
 #include <regex>
 #include <sys/socket.h>
